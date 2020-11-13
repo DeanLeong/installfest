@@ -22,20 +22,6 @@ eval "$(rbenv init -)"
 
 3. Close your terminal window and open a new one.
 
-4. we can test to see if we're using rbenv by typing the command in terminal:
-
-```shell
-which ruby
-```
-
-whit should return a line that looks something like this:
-
-```shell
-
-/Users/<YourUsernameHere>/.rbenv/shims/ruby
-
-```
-
 ## Installing Ruby
 
 1. Now install the current version of Ruby with
