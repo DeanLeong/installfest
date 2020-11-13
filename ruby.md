@@ -56,3 +56,17 @@ rbenv versions
 ```
 
 we should see an asterisk next to `2.7.1`
+
+we can test to see if we're using rbenv by typing the command in terminal:
+
+```shell
+which ruby
+```
+
+which should return a line that looks something like this:
+
+```shell
+
+/Users/<YourUsernameHere>/.rbenv/shims/ruby
+
+```
